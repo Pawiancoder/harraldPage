@@ -1,0 +1,5 @@
+npm install @angular/cli => angular installieren
+ng new [name] => neue application erstellen
+cd [directory]
+ng serve => projekt compilieren (server starten)
+ng generate component [name] => neues component erstellen // neue Seite
